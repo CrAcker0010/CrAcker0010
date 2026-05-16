@@ -127,7 +127,7 @@ Mindset:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrAcker0010&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CrAcker0010&theme=tokyonight&hide_border=true" />
 
 </div>
 
