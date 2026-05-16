@@ -37,7 +37,7 @@ Mindset:
 ## 💻 Programming & Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,angular,androidstudio,arudino,azure,c,fastapi,flask,django,gcp,idea,kali,linux,mysql,opencv,raspberrypi,sklearn,tensorflow,unreal,xd" />
 </p>
 
 ---
