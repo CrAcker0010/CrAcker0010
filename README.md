@@ -74,6 +74,7 @@ Mindset:
 | 🧭 Gyroscope | ✅ |
 | 🚗 Motor Drivers | ✅ |
 | 🎥 Camera Modules | ✅ |
+| Hackathon Winner X 2|✅|
 
 ---
 
