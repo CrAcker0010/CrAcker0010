@@ -120,19 +120,7 @@ Mindset:
 > “I don't just use technology.  
 > I try to understand how to extend it, automate it, and redesign it.”
 
----
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CrAcker0010&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CrAcker0010&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🌌 Developer Archetype
 
