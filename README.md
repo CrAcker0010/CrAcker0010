@@ -31,7 +31,7 @@ Mindset:
   - Learn
   - Improve
 ```
-<img src="https://github.com/CrAcker0010/portfolio/blob/main/public/images/profile2.png">
+<img src="https://github.com/CrAcker0010/portfolio/blob/main/public/images/profile.png" width="50%" height="50%">
 💡 I enjoy creating intelligent systems that combine software, hardware, and automation into real-world solutions.
 
 ---
