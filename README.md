@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,angular,androidstudio,azure,c,fastapi,flask,django,gcp,idea,kali,linux,mysql,opencv,raspberrypi,sklearn,tensorflow,unreal,xd" />
 </p>
 # 🧠 About Me
-
+   
 ```yaml
 Name: Cracker
 Role: Computer Science Student
@@ -31,7 +31,7 @@ Mindset:
   - Learn
   - Improve
 ```
-
+<img src="https://github.com/CrAcker0010/portfolio/blob/main/public/images/profile2.png">
 💡 I enjoy creating intelligent systems that combine software, hardware, and automation into real-world solutions.
 
 ---
